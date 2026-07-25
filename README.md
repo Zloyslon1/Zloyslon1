@@ -24,4 +24,4 @@
 | [api-final-yatube](https://github.com/Zloyslon1/api-final-yatube) | REST API соцсети: публикации, подписки, JWT, пагинация |
 | [infra_sprint1](https://github.com/Zloyslon1/infra_sprint1) | Контейнеризация и деплой fullstack-приложения: Docker, docker-compose, nginx |
 | [django-testing](https://github.com/Zloyslon1/django-testing) | Тестирование Django-проектов: pytest и unittest |
-| [lifehub](https://github.com/Zloyslon1/lifehub) | Трекер задач с LLM-планированием: FastAPI + React + PostgreSQL |
+| [lifehub](https://github.com/Zloyslon1/lifehub) | Трекер задач с LLM-планированием: FastAPI + React + SQLAlchemy |
