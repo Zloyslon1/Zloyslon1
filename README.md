@@ -6,7 +6,7 @@
 корпоративные инструменты — от идеи до деплоя и мониторинга на VPS.
 
 - 🔭 Свежее: [Foodgram](https://github.com/Zloyslon1/foodgram) — сервис рецептов,
-  бэкенд с нуля (Django + DRF + PostgreSQL, CI/CD, [живой прод](https://foodgram-12.duckdns.org));
+  бэкенд с нуля (Django + DRF + PostgreSQL, CI/CD);
   учусь в ОГУ на «Программной инженерии»
 - 💬 Открыт к предложениям: backend Python, LLM-интеграции
 - 📫 ikkononenko@icloud.com
